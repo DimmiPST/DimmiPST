@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DimmiPST/DimmiPST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Hi, I'm Jorge / Dimmi 👋</h1>
 
-Here are some ideas to get you started:
+  <p>
+    <strong>Python Developer & Cybersecurity Student</strong>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://img.shields.io/badge/Age-16Y-blue?style=for-the-badge&logoColor=white" alt="Age">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logoColor=white" alt="Focus">
+  <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
+  <br><br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=435&lines=Building+with+Python...;Hacking+the+future+line+by+line.;Focusing+on+Cybersecurity." alt="Typing SVG" />
+  </a>
+
+</div>
+
+---
+
+### 🛡️ About Me
+
+* 👤 **Name:** Jorge (Dimmi)
+* 🎂 **Age:** 16 years old
+* 🎯 **Focus:** Python Development & Information Security
