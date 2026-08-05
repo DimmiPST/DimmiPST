@@ -32,7 +32,7 @@
 <div align="center">
 
   <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-dimmitis_parys-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-dimmitis__parys-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="mailto:jorge.scgs@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
