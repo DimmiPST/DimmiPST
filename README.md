@@ -1,19 +1,19 @@
 <div align="center">
 
-  <h1>Hi, I'm Jorge Bena/ Dimmi 👋</h1>
+  <h1>Hi, I'm Jorge Bena / Dimmi 👋</h1>
 
   <p>
     <strong>Python Developer & Cybersecurity Student</strong>
   </p>
 
   <img src="https://img.shields.io/badge/Age-16Y-blue?style=for-the-badge&logoColor=white" alt="Age">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logoColor=white" alt="Focus">
+  <img src="https://img.shields.io/badge/Focus-Automation%20with%20Python-red?style=for-the-badge&logoColor=white" alt="Focus">
   <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=435&lines=automating+with+Python...;Studying+new+concepts.;Focusing+on+Learning.;Coding my dreams" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8¢er=true&vCenter=true&width=480&lines=Automating+with+Python...;Studying+new+concepts.;Focusing+on+Learning.;Coding+my+dreams." alt="Typing SVG" />
   </a>
 
 </div>
@@ -22,11 +22,12 @@
 
 ### 🛡️ About Me
 
-* 👤 **Name:** Jorge (Dimmi)
-* 🎂 **Age:** 16 years old
-* 🎯 **Focus:** Python Automation & Information Security
+- 👤 **Name:** Jorge (Dimmi)
+- 🎂 **Age:** 16 years old
+- 🎯 **Focus:** Automation with Python & Information Security
 
 ---
+
 ### 📫 Connect With Me
 
 <div align="center">
