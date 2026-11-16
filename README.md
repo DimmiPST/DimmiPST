@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi, I'm Jorge / Dimmi 👋</h1>
+  <h1>Hi, I'm Jorge Bena/ Dimmi 👋</h1>
 
   <p>
     <strong>Python Developer & Cybersecurity Student</strong>
@@ -13,7 +13,7 @@
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=435&lines=Building+with+Python...;Hacking+the+future+line+by+line.;Focusing+on+Cybersecurity." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=435&lines=automating+with+Python...;Studying+new+concepts.;Focusing+on+Learning.;Coding my dreams" alt="Typing SVG" />
   </a>
 
 </div>
@@ -24,7 +24,7 @@
 
 * 👤 **Name:** Jorge (Dimmi)
 * 🎂 **Age:** 16 years old
-* 🎯 **Focus:** Python Development & Information Security
+* 🎯 **Focus:** Python Automation & Information Security
 
 ---
 ### 📫 Connect With Me
